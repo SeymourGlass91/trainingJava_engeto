@@ -13,7 +13,7 @@ public class Main {
         System.out.println("___________________________________________");
 
         String jmeno = "Jan Novak";
-        System.out.println("Jmeno a primeni klienta : " + jmeno);
+        System.out.println("Jmeno a primeni klienta  : " + jmeno);
 
         int pocetNakupu = 15;
         System.out.println("Pocet Nakupu : " +pocetNakupu);
@@ -37,10 +37,7 @@ public class Main {
         System.out.println("Ip adresa klienta : " + ipAdresa );
 
 
-       // SubnetUtils.SubnetInfo subnet = new SubnetUtils("192.168.0.3/31");
 
-      //  BigDecimal cenaZaKus = BigDecimal.valueOf(0.1);
-       /// System.out.println(cenaZaKus);
 
 
     }
