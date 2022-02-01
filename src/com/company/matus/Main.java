@@ -34,7 +34,7 @@ public class Main {
         System.out.println("Spz vozidla : " + spz );
 
         String ipAdresa = "191.168.1.1";
-        System.out.println("Ip adresa klienta : " + ipAdresa );
+        System.out.println("Ip adresa klienta :  " + ipAdresa );
 
 
 
