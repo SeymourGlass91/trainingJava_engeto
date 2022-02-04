@@ -21,7 +21,7 @@ public class Main {
         String nazovMesta = "Ostrava";
         System.out.println("Nazov mesta klienta : " + nazovMesta);
 
-        BigDecimal spotrebaVozidla = BigDecimal.valueOf(6.7);
+        BigDecimal spotrebaVozidla = BigDecimal.valueOf(6.7); // može byt aj double ale chcel som skusit bigdecimal
         System.out.println("Spotreba vozidla : " + spotrebaVozidla + "l");
 
         double mnozstviKabelu = 37.7;
@@ -35,6 +35,8 @@ public class Main {
 
         String ipAdresa = "191.168.1.1";
         System.out.println("Ip adresa klienta :  " + ipAdresa );
+
+
         System.out.println("___________________________________________");
 
         // Úkol: Oprav chybný kód
@@ -96,4 +98,5 @@ public class Main {
     public static void ukol9() {
         System.out.println("Metoda *skoro* bez chybičky!");
     }
+
 }
